@@ -1,0 +1,3 @@
+WARNING This application only runs on x64 bit systems, x32 bit and x86 bit systems are not compatible today. Possibly later:
+-------------------------------------------------- -------------------------------------------------- --------------------------------------
+Click on Start.bat. If your computer is compatible with our tools, you can run them. Otherwise, it means your PC is running on x32 bits or x86 bits.
