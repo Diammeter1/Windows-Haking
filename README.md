@@ -22,8 +22,7 @@ If you appreciate this project and would like to contribute to its continued dev
 You can make donations using the following methods:
 
 - **Bitcoin**: Bitcoin Address: bc1qg0lxj2kaysxp5vjd392gjnk5zmf4fpfam689sn
-- **Ethereum**: Ethereum Address: 0x01ae84079D360af1e9F668d573B107af7b000b1d
-- **PayPal**: 
+- **Ethereum**: Ethereum Address: 0x01ae84079D360af1e9F668d573B107af7b000b1d 
 
 Funds obtained from donations will be used to support the project's development, including expenses related to infrastructure, testing, and developers contributing to the code.
 
